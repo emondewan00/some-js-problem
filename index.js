@@ -9,6 +9,8 @@ function mindGame(num){
 }
 
 
+//I take a number from user and multiply by 3 and addition 10 and division by 2 and subtraction 5 then return the result   
+
 
         //Problem-2
 
@@ -29,6 +31,9 @@ function evenOdd(str){
 }
 
 
+//I receive a string from user and check this string length if length odd then i return "odd" other then return "even"
+
+
         //Problem-3
         
 function isLGSeven (num){
@@ -44,7 +49,7 @@ function isLGSeven (num){
     }
 }
 
-
+//I take a number from user then absolute this number then subtract by 7 if subtraction result less than 7 then return the subtraction result. if result more than 7 or equal 7 then multiply by 2 
 
         //Problem-4
 
@@ -62,8 +67,8 @@ function findingBadData(arr){
     }
 }
 
-
-            //Problem-5
+//i take a array from user and check this and i count all bad number
+           
 
 function gemsToDiamond (gems1,gems2,gems3){
     if(typeof(gems1)=='number'&&typeof(gems2)=='number'&&typeof(gems3)=='number'){
@@ -77,3 +82,6 @@ function gemsToDiamond (gems1,gems2,gems3){
         return "Give me number";
     }
 }
+
+
+// i take 3 different number from 3 friends and i multiply by 21,32 and 43.if total value more then or equal 2000 then minus 2000 then return subtraction, otherthen return the product 
